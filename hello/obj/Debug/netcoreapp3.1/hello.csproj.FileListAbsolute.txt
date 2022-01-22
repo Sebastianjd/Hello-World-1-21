@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\hello\bin\Debug\netcoreapp3.1\hello.exe
+C:\Users\Sebas\source\repos\hello\bin\Debug\netcoreapp3.1\hello.deps.json
+C:\Users\Sebas\source\repos\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.json
+C:\Users\Sebas\source\repos\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\hello\bin\Debug\netcoreapp3.1\hello.dll
+C:\Users\Sebas\source\repos\hello\bin\Debug\netcoreapp3.1\hello.pdb
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.dll
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.pdb
+C:\Users\Sebas\source\repos\hello\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache
